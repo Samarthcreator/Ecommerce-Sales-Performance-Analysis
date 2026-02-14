@@ -38,7 +38,7 @@ Revenue is evenly distributed across customers (low concentration risk).
 
 Higher discount generally correlates with lower profit.
 
-📌 Dashboard Features
+<b>📌 Dashboard Features </b>
 
 KPI Cards
 
@@ -51,3 +51,7 @@ Monthly Sales Trend
 Discount vs Profit Scatter Plot
 
 Conditional Formatting for Loss Identification
+
+Dashboard Screenshot
+<img width="1170" height="653" alt="image" src="https://github.com/user-attachments/assets/0b1dccb5-107d-4082-8a0a-401f702b9ffd" />
+
